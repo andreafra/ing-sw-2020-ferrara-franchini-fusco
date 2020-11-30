@@ -6,6 +6,8 @@ Prova Finale di Ingengeria del Software
 
 ![santorini](src/main/resources/images/santorini-logo.png)
 
+Here's a video demo of [how it looks](https://player.vimeo.com/video/485526632)!
+
 ## Contributors
 
 - [Alessandro Ferrara](https://github.com/ferrohd)
